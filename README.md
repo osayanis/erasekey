@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://osalabs.fr/erasekey">Site</a> ·
   <a href="https://github.com/osayanis/osaboot/releases/latest/download/OsaBoot.dmg">Créer une EraseKEY (OsaBoot pour Mac)</a> ·
-  <a href="https://github.com/osayanis/osaboot">OsaBoot</a>
+  <a href="https://github.com/osayanis/osaboot">OsaBoot</a> ·
+  <a href="https://github.com/osayanis/osahub/releases/latest/download/OsaHUB.dmg">Installer OsaBoot avec OsaHUB</a>
 </p>
 
 ---
